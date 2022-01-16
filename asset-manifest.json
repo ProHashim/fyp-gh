@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fyp-gh/static/css/main.5a465d60.css",
+    "main.js": "/fyp-gh/static/js/main.280fec8e.js",
+    "static/media/plans2.jpg": "/fyp-gh/static/media/plans2.3e1bffd10a802fad2e8f.jpg",
+    "static/media/plans1.jpg": "/fyp-gh/static/media/plans1.bf394954075cfa461fb6.jpg",
+    "static/media/hero-bg-image.png": "/fyp-gh/static/media/hero-bg-image.1b687a11ac0c2d5b7d5b.png",
+    "static/media/plans3.jpg": "/fyp-gh/static/media/plans3.7a14dd41564a5e610cd6.jpg",
+    "static/media/plans4.jpg": "/fyp-gh/static/media/plans4.68fe08c19d641fd4cc93.jpg",
+    "static/media/delux.png": "/fyp-gh/static/media/delux.e93f683d95d89d93bb85.png",
+    "static/media/top_-1.png": "/fyp-gh/static/media/top_-1.f2c2e432daa67887d239.png",
+    "static/media/top_.png": "/fyp-gh/static/media/top_.f2c2e432daa67887d239.png",
+    "static/media/studio.png": "/fyp-gh/static/media/studio.8e9e0184d0d4ebdbd782.png",
+    "static/media/deluxbp.png": "/fyp-gh/static/media/deluxbp.36332704c9571cc12659.png",
+    "static/media/health.png": "/fyp-gh/static/media/health.e71c87503f7bf8a39320.png",
+    "static/media/security.png": "/fyp-gh/static/media/security.00d90698d2ef7523cd32.png",
+    "static/media/swimming.png": "/fyp-gh/static/media/swimming.06c219c7ef49c7f62f6b.png",
+    "static/media/parking.png": "/fyp-gh/static/media/parking.7a1bbdd71da82469f762.png",
+    "index.html": "/fyp-gh/index.html",
+    "main.5a465d60.css.map": "/fyp-gh/static/css/main.5a465d60.css.map",
+    "main.280fec8e.js.map": "/fyp-gh/static/js/main.280fec8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a465d60.css",
+    "static/js/main.280fec8e.js"
+  ]
+}
