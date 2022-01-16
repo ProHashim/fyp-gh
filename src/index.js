@@ -1,29 +1,17 @@
  
 import ReactDOM from 'react-dom';
 import './index.css';
-import Navbar from './components/header';
-import Hero from './components/hero';
-import Types from './components/apartmentTypes';
-import AptPlans from './components/aptPlans';
-import Footer from './components/footer';
+import Home from './pages/home';
+import { BrowserRouter  } from "react-router-dom";
 
-
-function Home(){
-  return(
-    <>
-    <Navbar />
-    <Hero />
-    <Types />
-    <AptPlans />
-
-    <Footer />
-    </>
-  )
-}
+import Main from './main';
 
 
 ReactDOM.render(
-  <Home />,
+   <BrowserRouter>
+    <Home /> 
+    <Main />
+  </BrowserRouter>,
 
   document.getElementById('root')
 );
